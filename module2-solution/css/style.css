@@ -2,8 +2,11 @@ h1 {
     text-align: center;
 }
 
+
+
 p{
     margin: 10px;
+    
 }
 
 body {
@@ -47,6 +50,16 @@ body {
     border: 1px solid black;
     box-sizing: border-box;
     height: 200px;
+    
+    
+}
+
+#sepa {
+    
+    margin: 20px;
+    margin-top: 10px;
+    padding-bottom: 15px;
+    height: 126px;
     overflow: hidden;
 }
 
